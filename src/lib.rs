@@ -1,5 +1,6 @@
 use std::io::prelude::*;
 
+/// default size
 pub const DEFAULT_BUF_SIZE: usize = 8196;
 
 use std::io::{self};
